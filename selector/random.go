@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/yuanzhangcai/srsd/service"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
 func init() {

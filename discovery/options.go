@@ -3,7 +3,7 @@ package discovery
 import (
 	"time"
 
-	"github.com/yuanzhangcai/srsd/selector"
+	"github.com/brucewangzhihua/srsd/selector"
 )
 
 var (

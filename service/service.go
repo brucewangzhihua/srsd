@@ -1,8 +1,8 @@
 package service
 
 import (
+	"github.com/brucewangzhihua/srsd/utils"
 	"github.com/google/uuid"
-	"github.com/yuanzhangcai/srsd/utils"
 )
 
 // Service 服务注册信息

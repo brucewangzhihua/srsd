@@ -4,8 +4,8 @@
 服务注册example:
 ```
 import(
-    "github.com/yuanzhangcai/srsd/registry"
-	"github.com/yuanzhangcai/srsd/service"
+    "github.com/brucewangzhihua/srsd/registry"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
     //
@@ -29,7 +29,7 @@ import(
 服务发现example:
 ```
 import(
-    "github.com/yuanzhangcai/srsd/discovery"
+    "github.com/brucewangzhihua/srsd/discovery"
 )
 
     dis = discovery.NewDiscovery(discovery.Addresses([]string{"127.0.0.1:2379"}))

@@ -3,7 +3,7 @@ package selector
 import (
 	"sync"
 
-	"github.com/yuanzhangcai/srsd/service"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
 // Round 轮询选择器

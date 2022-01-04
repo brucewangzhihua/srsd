@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yuanzhangcai/srsd/registry"
-	"github.com/yuanzhangcai/srsd/service"
+	"github.com/brucewangzhihua/srsd/registry"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
 func main() {

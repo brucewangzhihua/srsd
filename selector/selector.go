@@ -1,7 +1,7 @@
 package selector
 
 import (
-	"github.com/yuanzhangcai/srsd/service"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
 // Selector 服务选择器

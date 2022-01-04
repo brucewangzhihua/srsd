@@ -3,7 +3,7 @@ package registry
 import (
 	"time"
 
-	"github.com/yuanzhangcai/srsd/service"
+	"github.com/brucewangzhihua/srsd/service"
 )
 
 var (

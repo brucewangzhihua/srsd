@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/brucewangzhihua/srsd/service"
 	"github.com/coreos/etcd/clientv3"
-	"github.com/yuanzhangcai/srsd/service"
 )
 
 // Registry 服务注册主件

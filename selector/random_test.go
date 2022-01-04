@@ -3,8 +3,8 @@ package selector
 import (
 	"testing"
 
+	"github.com/brucewangzhihua/srsd/service"
 	"github.com/stretchr/testify/assert"
-	"github.com/yuanzhangcai/srsd/service"
 )
 
 func TestNewRandom(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/brucewangzhihua/srsd/service"
 	"github.com/stretchr/testify/assert"
-	"github.com/yuanzhangcai/srsd/service"
 )
 
 var testEtcdAddr = []string{"127.0.0.1:2379"}

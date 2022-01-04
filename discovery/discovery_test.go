@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/brucewangzhihua/srsd/registry"
+	"github.com/brucewangzhihua/srsd/selector"
+	"github.com/brucewangzhihua/srsd/service"
 	"github.com/stretchr/testify/assert"
-	"github.com/yuanzhangcai/srsd/registry"
-	"github.com/yuanzhangcai/srsd/selector"
-	"github.com/yuanzhangcai/srsd/service"
 )
 
 var testEtcdAddr = []string{"127.0.0.1:2379"}

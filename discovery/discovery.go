@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/brucewangzhihua/srsd/selector"
+	"github.com/brucewangzhihua/srsd/service"
 	"github.com/coreos/etcd/clientv3"
 	"github.com/coreos/etcd/mvcc/mvccpb"
-	"github.com/yuanzhangcai/srsd/selector"
-	"github.com/yuanzhangcai/srsd/service"
 )
 
 // Event 监听事件
